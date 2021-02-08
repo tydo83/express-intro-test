@@ -38,7 +38,7 @@ NOTE: Remember the spread operator!
 2. Update album name + other informations
 3. Update song name + other informations
 4. If the artist or the song or the album does not exist, send a message back "Sorry, the {XXXX} you trying to update does not exist".
-   {XXXX} - means dynamic - e.g Sorry, the artist you are trying to update does not exist
+   {XXXX} - means dynamic - e.g 
 ​
 This Delete Request should be able to Delete the following:
 ​
